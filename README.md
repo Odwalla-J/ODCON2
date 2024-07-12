@@ -14,7 +14,7 @@ Bill of Materials
 **Solenoid**
 - 12V (https://s.click.aliexpress.com/e/_DkXxpBV)
 - 24V (https://s.click.aliexpress.com/e/_DeMXpxz)
-- Rubber Washer - 5x13x4 (https://s.click.aliexpress.com/e/_DFrdXlp)
+- Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
 **Switches**
 - Trigger (https://s.click.aliexpress.com/e/_DBphiBp)
