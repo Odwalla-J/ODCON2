@@ -1,5 +1,16 @@
 # ODCON2
 
+***The ODCON2 is presently in a BETA status***
+If you are interested in printing and testing the files to submit feedback to assist in my continued development, the prepared STLs are contained within the BETA.rar file hosted in the link above.
+
+**PLEASE NOTE** 
+While these files will work to create a working lightgun, they are still being revised and edited to improve the printability, functionality and general aesthetics.
+
+The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally.
+
+If you require any assistance or you would like to provide more direct feedback to me, myself and our supportive community can be located on Discord in the ODCON channel of the DIY Lightgun server: https://discord.gg/VgTxVRnuNB
+
+
 Bill of Materials
 --
 **Camera**
@@ -32,3 +43,8 @@ Bill of Materials
 - M3 Kit (https://s.click.aliexpress.com/e/_Dn3xiN9)
 - MCU mounting screws [Pan M1.2x4] (https://www.aliexpress.us/item/2251832857570651.html)
 - Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
+
+---
+
+
+
