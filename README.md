@@ -9,7 +9,7 @@ Bill of Materials
 - Lens Kit (https://www.aliexpress.us/item/3256802101574676.html)
 
 **Linear Rail**
-- LWL 7B (https://www.aliexpress.us/item/3256806030208453.html)
+- LWL 7B 40mm (https://www.aliexpress.us/item/3256806030208453.html)
 
 **Solenoid**
 - 12V (https://s.click.aliexpress.com/e/_DkXxpBV)
@@ -18,7 +18,7 @@ Bill of Materials
 
 **Switches**
 - Trigger (https://s.click.aliexpress.com/e/_DBphiBp)
-- Side Buttons (https://s.click.aliexpress.com/e/_DFT7OOR)
+- Side Buttons [Pale Blue (but any will work)] (https://s.click.aliexpress.com/e/_DFT7OOR)
 
 **Springs**
 - Trigger + Return Assist [3x10x.5] (https://a.aliexpress.com/_mtCZsAg)
@@ -30,5 +30,5 @@ Bill of Materials
 **Fasteners**
 - M2 Kit (https://s.click.aliexpress.com/e/_DB4gK07)
 - M3 Kit (https://s.click.aliexpress.com/e/_Dn3xiN9)
-- MCU mounting screws (https://www.aliexpress.us/item/2251832857570651.html)
-- Threaded Inserts (https://s.click.aliexpress.com/e/_DkHyn2F)
+- MCU mounting screws [Pan M1.2x4] (https://www.aliexpress.us/item/2251832857570651.html)
+- Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
