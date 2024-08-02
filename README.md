@@ -32,7 +32,7 @@ Bill of Materials
 - Side Buttons [Pale Blue (but any will work)] (https://s.click.aliexpress.com/e/_DFT7OOR)
 
 **Springs**
-- Trigger + Return Assist [3x10x.5] (https://a.aliexpress.com/_mtCZsAg)
+- Trigger + Return Assist [3x15x.2] (https://s.click.aliexpress.com/e/_DDOggYJ)
 
 **Connector**
 - GX16 Connector (https://s.click.aliexpress.com/e/_DkaVC7h)
