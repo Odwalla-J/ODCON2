@@ -27,6 +27,9 @@ Bill of Materials
 - 24V (https://s.click.aliexpress.com/e/_DeMXpxz)
 - Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
+**Rumble**
+- N20 (https://s.click.aliexpress.com/e/_DF0LCQb)
+
 **Switches**
 - Trigger (https://s.click.aliexpress.com/e/_DBphiBp)
 - Side Buttons [Pale Blue (but any will work)] (https://s.click.aliexpress.com/e/_DFT7OOR)
