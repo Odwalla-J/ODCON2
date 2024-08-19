@@ -42,7 +42,7 @@ I strongly suggest you join the following active Discord communities for further
 - LWL 7B 40mm (https://www.aliexpress.us/item/3256806030208453.html)
 
 **Solenoid**
-- 24V (https://s.click.aliexpress.com/e/_DeMXpxz)
+- 24V ()
 - Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
 **Rumble**
@@ -71,7 +71,6 @@ I strongly suggest you join the following active Discord communities for further
 -Micro USB adapter ()
 
 **Electronics**
--Micro USB breakout()
 -D4184 board()
 -Rumble Circuit Stuff()
 -IR Sensors()
