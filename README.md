@@ -67,13 +67,13 @@ I strongly suggest you join the following active Discord communities for further
 - Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
 
 **MCU**
--Pico RP2040 ()
--Micro USB adapter ()
+- Pico RP2040 ()
+- Micro USB adapter ()
 
 **Electronics**
--D4184 board()
--Rumble Circuit Stuff()
--IR Sensors()
+- D4184 board()
+- Rumble Circuit Stuff()
+- IR Sensors()
 
 ---
 
