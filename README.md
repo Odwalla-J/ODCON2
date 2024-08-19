@@ -25,8 +25,8 @@ The OpenFIRE firmware and software can be located here:
 [Team OpenFIRE GitHub](https://github.com/TeamOpenFIRE "https://github.com/TeamOpenFIRE")
 
 I strongly suggest you join the following active Discord communities for further build support:
-[DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
-[OpenFIRE](https://discord.com/invite/ZnGaVaRcFg "https://discord.com/invite/zngavarcfg")
+- [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
+- [OpenFIRE](https://discord.com/invite/ZnGaVaRcFg "https://discord.com/invite/zngavarcfg")
 
 ---
 
