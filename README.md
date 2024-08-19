@@ -84,6 +84,7 @@ The provided files have been exported in an orientation that has been thoroughly
 The print settings that have produced the best consistent results are as follows:
 - .12mm Layer Height
 - %20 Infill
+- 3 Outter Walls
 - Automated Tree Supports (touching buildplate)
 
 *Use of a brim is recommended for small or narrow parts such as the iron sights/side panels/trigger guard and can typically be enabled in your slicers "Per Object" settings.
