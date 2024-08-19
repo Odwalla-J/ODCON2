@@ -330,7 +330,8 @@ Once the copy has completed your Pico should automatically reboot and reconnect 
 ## Basic Software Config
 
 Make sure your gun is connected and flashed with the OpenFIRE firmware, the app will not run if it doesn't detect your gun. 
-Run the OpenFIRE application, in the top left corner you will need to select the drop down next to "COM Port" there should only be one available device if this is the only gun connected. Select it and you can now edit parameters of your gun using the simple UI.
+Run the OpenFIRE application, in the top left corner you will need to select the drop down next to "COM Port" there should only be one available device if this is the only gun connected. 
+Select it and you can now edit parameters of your gun using the simple UI.
 A detailed guide can be found on the [Team OpenFIRE GitHub](https://github.com/TeamOpenFIRE "https://github.com/TeamOpenFIRE"), but most importantly you will want to go to the "Gun Tests" tab and run the IR configuration.
 Once complete your gun should now be operational, aiming at the screen should move your mouse curser and pulling the trigger should register as a mouse click.
 Under the "Gun Tests" menu you can press each of your buttons to verify that they are operational, and you can send vibrate and solenoid commands to your gun to test those features.
