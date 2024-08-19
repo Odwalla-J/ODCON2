@@ -8,7 +8,7 @@ While these files will work to create a working lightgun, they are still being r
 
 The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally.
 
-If you require any assistance or you would like to provide more direct feedback to me, myself and our supportive community can be located on Discord in the ODCON channel of the DIY Lightgun server: https://discord.gg/VgTxVRnuNB
+If you require any assistance or you would like to provide more direct feedback to me, myself and our supportive community can be located on Discord in the ODCON channel of the DIY Lightgun server: [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
 
 ---
 
