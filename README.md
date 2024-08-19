@@ -74,6 +74,7 @@ I strongly suggest you join the following active Discord communities for further
 -Micro USB breakout()
 -D4184 board()
 -Rumble Circuit Stuff()
+-IR Sensors()
 
 ---
 
