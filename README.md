@@ -18,17 +18,17 @@ This new design aims to improve upon the original to produce a lightgun that is 
 (insert a promo photo here)
 
 This design is completely platform agnostic and will work with any IR based lightgun system, but I strongly recommend the use of the free and open source OpenFIRE platform. 
-
-**Due to the proprietary nature of some platforms, I will not be sharing information about their software, circuits or schematics.**
-
+**Due to the proprietary nature of some platforms, I will not be sharing those circuits or schematics.**
 For the sake of offering a comprehensive guide, the following instructions will make use of OpenFIRE's excellent and freely available electronics solution and software.
 
 The OpenFIRE firmware and software can be located here:
 [Team OpenFIRE GitHub](https://github.com/TeamOpenFIRE "https://github.com/TeamOpenFIRE")
 
 I strongly suggest you join the following active Discord communities for further build support:
-- [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
-- [OpenFIRE](https://discord.com/invite/ZnGaVaRcFg "https://discord.com/invite/zngavarcfg")
+[DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
+[OpenFIRE](https://discord.com/invite/ZnGaVaRcFg "https://discord.com/invite/zngavarcfg")
+
+**While following along with the guide below I strongly suggest users to test as they go along to prevent having to completely disassemble the gun at a later step.**
 
 ---
 
@@ -44,7 +44,7 @@ I strongly suggest you join the following active Discord communities for further
 - LWL 7B 40mm (https://www.aliexpress.us/item/3256806030208453.html)
 
 **Solenoid**
-- 24V ()
+- 24V (https://s.click.aliexpress.com/e/_DeMXpxz)
 - Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
 **Rumble**
@@ -69,13 +69,12 @@ I strongly suggest you join the following active Discord communities for further
 - Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
 
 **MCU**
-- Pico RP2040 ()
-- Micro USB adapter ()
+-Pico RP2040 ()
 
 **Electronics**
-- D4184 board()
-- Rumble Circuit Stuff()
-- IR Sensors()
+-Micro USB breakout()
+-D4184 board()
+-Rumble Circuit Stuff()
 
 ---
 
@@ -86,7 +85,6 @@ The provided files have been exported in an orientation that has been thoroughly
 The print settings that have produced the best consistent results are as follows:
 - .12mm Layer Height
 - %20 Infill
-- 3 Outter Walls
 - Automated Tree Supports (touching buildplate)
 
 *Use of a brim is recommended for small or narrow parts such as the iron sights/side panels/trigger guard and can typically be enabled in your slicers "Per Object" settings.
@@ -138,15 +136,41 @@ And finally 1 in the trigger assembly of the upper frame:
 
 (Insert picture)
 
-**SIDE PANELS**
+You may pre-prepare your side panels by inserting the switched into the holes and pressing them firmly into place, friction should be enough to hold them firmly in place but small amount of hot glue from behind isn't a bad idea. I like to install them with the centered pin in the downwards position as shown below, now is also an excellent opportunity to pre-solder the wires:
 
-**SLIDE LOCK AND TRIGGER SPRING CATCH**
+(Insert picture)
 
-**LINEAR RAIL, RUBBER WASHER AND END STOP**
+The body of the gun has three small pieces that need glued into position, dry fit the parts to test their fit before committing with the glue, the support material may need to be carved away from the slide locks if they do no lay flush with the top of the body as shown below. Once they are in good condition apply super glue to the interior of the slide lock and then press firmly into place as shown below:
 
-**DFROBOT CAMERA DISECTION**
+(Insert picture)
 
-**TRIGGER + WASHERS** 
+The Trigger Catch will need to be installed as well, test fit the part with the arrow facing forward as shown below, if it fits well then super glue can be applied to the recesses of the body and the part can be pushed firmly into place until it dries, it's not a bad idea to add some glue to the outsides of the part from above once locked into position:
+
+(Insert picture)
+
+The Upper Frame prep is fairly simple. Start by removing the bearing block from the rail carefully (if you were supplied with a plastic rail you can slide the bearing block directly onto this) Now place the linear rail into the matching groove and then inserting the M2 screws into the two available holes. From below you should be able to place an M2 nut on each thread by holding it in place with a pair of pliers. Firmly install the screws without overtightening:
+
+(Insert picture)
+
+Carefully re-install the bearing block onto the linear rail. Now you can insert the rubber washer into it's recess as shown below, now is also an excellent time to lube the linear rail if you have a lubricant like white lithium grease available, just make sure to wipe away any excess:
+
+(Insert picture)
+
+Before applying glue, it's a good idea to dry fit the end cap, it's a very tight fit and it helps to insert the piece at an angle. Once you're confident with the fit, apply super glue to the underside of the part as shown and reinstall the piece, hold it in place until it sets: 
+
+(Insert picture)
+
+The DFRobot camera will need to be dissected for it to fit properly. This includes stripping it's cable all the way to the plastic body of the camera, as well as removing the rubber strain relief nub for the cable, the only protrusion on the back of the camera should be the LED:
+
+(Insert picture)
+
+Once the camera seats flush against the piece as shown you're safe to hot glue it into position. Ignore the "TOP" marking on the label, this is incorrect for our application. If you're an OpenFIRE user the LED should be on the left and the wires on the right, there is a small notch in the top of the frame piece to help you locate center (Refer to your IR solutions provider to verify installation orientation)
+
+(Insert picture)
+
+The trigger is the final piece that requires pre assembly. Install the washers into the grooves on the trigger to test fit them, if they need some minor adjustments use a hobby knife to shave away small amounts from the body of the trigger at a time. These can be super glued into place once they are ready. Now you will want to test fit the trigger to make sure the tolerances are snug but not too tight that it prevents smooth motion. Insert the trigger between the gap in the top frame as shown below to test the fit, if the trigger is too tight, use sand paper to remove a small amount from each side carefully until the perfect fit is achieved:
+
+(Insert picture)
 
 ---
 
@@ -332,8 +356,7 @@ Once the copy has completed your Pico should automatically reboot and reconnect 
 ## Basic Software Config
 
 Make sure your gun is connected and flashed with the OpenFIRE firmware, the app will not run if it doesn't detect your gun. 
-Run the OpenFIRE application, in the top left corner you will need to select the drop down next to "COM Port" there should only be one available device if this is the only gun connected. 
-Select it and you can now edit parameters of your gun using the simple UI.
+Run the OpenFIRE application, in the top left corner you will need to select the drop down next to "COM Port" there should only be one available device if this is the only gun connected. Select it and you can now edit parameters of your gun using the simple UI.
 A detailed guide can be found on the [Team OpenFIRE GitHub](https://github.com/TeamOpenFIRE "https://github.com/TeamOpenFIRE"), but most importantly you will want to go to the "Gun Tests" tab and run the IR configuration.
 Once complete your gun should now be operational, aiming at the screen should move your mouse curser and pulling the trigger should register as a mouse click.
 Under the "Gun Tests" menu you can press each of your buttons to verify that they are operational, and you can send vibrate and solenoid commands to your gun to test those features.
@@ -342,6 +365,4 @@ Conversely if the 24v power is connected the solenoid will trigger with each tri
 
 ---
 
-**MAKE SURE TO REITERATE THAT THE USER SHOULD TEST THEIR PROGRESS AS THEY GO** 
-loctite on components. lube on slide.
 
