@@ -34,6 +34,8 @@ I strongly suggest you join the following active Discord communities for further
 
 ## Bill of Materials
 
+**BE CAREFUL WHEN ORDERING FROM THESE LINKS, SOME PARTS HAVE MULTIPLE OPTIONS, THESE PARTS HAVE SQUARE BRACKETS AHEAD OF THE LINK TO INDICATE EXACTLY WHICH PART TO SELECT**
+
 **Camera**
 - DFRobot (https://s.click.aliexpress.com/e/_DBF2QCF)
 
