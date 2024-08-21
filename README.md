@@ -69,12 +69,12 @@ I strongly suggest you join the following active Discord communities for further
 - Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
 
 **MCU**
--Pico RP2040 ()
+- Pico RP2040 ()
 
 **Electronics**
--Micro USB breakout()
--D4184 board()
--Rumble Circuit Stuff()
+- Micro USB breakout()
+- D4184 board()
+- Rumble Circuit Stuff()
 
 ---
 
