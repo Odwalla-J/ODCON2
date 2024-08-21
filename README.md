@@ -44,7 +44,7 @@ I strongly suggest you join the following active Discord communities for further
 - LWL 7B 40mm (https://www.aliexpress.us/item/3256806030208453.html)
 
 **Solenoid**
-- 24V (https://s.click.aliexpress.com/e/_DeMXpxz)
+- 24V (https://s.click.aliexpress.com/e/_m0wx99w)
 - Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
 **Rumble**
@@ -59,21 +59,21 @@ I strongly suggest you join the following active Discord communities for further
 
 **Connector**
 - GX16 Connector (https://s.click.aliexpress.com/e/_DkaVC7h)
-- 6 Conductor Cable 22AWG()
+- 6 Conductor Cable [22AWG 6C 5Meter] (https://s.click.aliexpress.com/e/_mr87lHE)
 
 **Fasteners**
 - M2 Kit (https://s.click.aliexpress.com/e/_DB4gK07)
 - M3 Kit (https://s.click.aliexpress.com/e/_Dn3xiN9)
-- M4 Kit ()
+- M4 Kit [M4 20pcs, Length: 6mm] (https://s.click.aliexpress.com/e/_m03UCyc)
 - MCU mounting screws [Pan M1.2x4] (https://www.aliexpress.us/item/2251832857570651.html)
 - Threaded Inserts [M3x5x5] (https://s.click.aliexpress.com/e/_DkHyn2F)
 
 **MCU**
-- Pico RP2040 ()
+- Pico RP2040 (https://s.click.aliexpress.com/e/_m0uYkDA)
 
 **Electronics**
-- Micro USB breakout()
-- D4184 board()
+- Micro USB breakout(https://s.click.aliexpress.com/e/_mL7v6bi)
+- D4184 board [AOD4184 - 40V 50A] (https://s.click.aliexpress.com/e/_mNJ5ZTq)
 - Rumble Circuit Stuff()
 
 ---
