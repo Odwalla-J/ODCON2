@@ -44,7 +44,7 @@ I strongly suggest you join the following active Discord communities for further
 - LWL 7B 40mm (https://www.aliexpress.us/item/3256806030208453.html)
 
 **Solenoid**
-- 24V (https://s.click.aliexpress.com/e/_m0wx99w)
+- JF-1039B [DC24V] (https://s.click.aliexpress.com/e/_m0wx99w)
 - Rubber Washer [5x13x4] (https://s.click.aliexpress.com/e/_DFrdXlp)
 
 **Rumble**
