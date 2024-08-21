@@ -74,7 +74,12 @@ I strongly suggest you join the following active Discord communities for further
 **Electronics**
 - Micro USB breakout(https://s.click.aliexpress.com/e/_mL7v6bi)
 - D4184 board [AOD4184 - 40V 50A] (https://s.click.aliexpress.com/e/_mNJ5ZTq)
-- Rumble Circuit Stuff()
+
+**Rumble Circuit**
+- 2N2222 (https://s.click.aliexpress.com/e/_mMfKNbm)
+- 1kOhm Resistor [1k] (https://s.click.aliexpress.com/e/_mLR72WC)
+- 100nF Capacitor [100NF] (https://s.click.aliexpress.com/e/_mKIjqbS)
+- Diode (https://s.click.aliexpress.com/e/_mMPhXt6)
 
 ---
 
