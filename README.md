@@ -17,7 +17,7 @@ This new design aims to improve upon the original to produce a lightgun that is 
 
 (insert a promo photo here)
 
-This design is completely platform agnostic and will work with any IR based lightgun system, but I strongly recommend the use of the free and open source OpenFIRE platform. 
+This design is completely platform agnostic and will work with any IR based lightgun system. 
 
 **Due to the proprietary nature of some platforms, I will not be sharing those circuits or schematics, because of this and for the sake of offering a comprehensive guide, the following instructions will make use of OpenFIRE's excellent and freely available electronics solution and software**
 
