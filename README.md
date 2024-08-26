@@ -88,6 +88,23 @@ I strongly suggest you join the following active Discord communities for further
 These should work for all IR gun systems, only one set of these are required per TV.
 - IR LED Setup (https://a.aliexpress.com/_mKVuVFi)
 
+**PSU**
+
+- 24V 3A Power Supply (https://s.click.aliexpress.com/e/_mry11qu)
+
+---
+
+## Recommended Tools
+
+Before beginning a build it is advisable to have a few of the following tools to assist you.
+
+- A 3D Printer: not entirely necessary if you can have a friend print this for you, I've printed these models sucessfully on a 2018 Ender 3 and a Bambu Labs P1P.
+- A Soldering Iron: A reasonable variable temperature iron is recommended, the Pinecil V2 by Pine64 is an excellent budget model that will work using the same PSU required by the gun. 
+- Hex Drivers/Bits: A set of drivers for M2/3/4 screws will be needed, ball-end drivers are HIGHLY recommeded.
+- Needle Nose Pliers
+- Adjustable Wrench
+- Small Phillips Head (+) screwdriver
+
 ---
 
 ## Printing
@@ -99,7 +116,7 @@ The print settings that have produced the best consistent results are as follows
 - %20 Infill
 - Automated Tree Supports (touching buildplate)
 
-*Use of a brim is recommended for small or narrow parts such as the iron sights/side panels/trigger guard and can typically be enabled in your slicers "Per Object" settings.
+*Use of a brim is recommended for small or narrow parts such as the iron sights/side panels/trigger guard, if you are printing these files all at once you can typically enable brims selectively in your slicers "Per Object" settings.
 
 (Insert photo or two of build plate orientation)
 
@@ -109,7 +126,7 @@ The print settings that have produced the best consistent results are as follows
 
 **Make sure all of your parts have been cleaned of their supports and any protrusions on rough surfaces where supports and brims have contacted have been cleaned to allow for appropriate clearances**
 
-Starting with the Heel Plate, insert the nut from the GX16 connector into the recess on the interior of the part and thread the connecter in until it's secure from the bottom.
+Starting with the Heel Plate, insert the nut from the GX16 connector into the recess on the interior of the part and then thread the connector in from the bottom until it's secure using an adjustable wrench.
 Now is the ideal time to solder you wires to the GX16 connector, make sure to leave plenty of slack on your cables as you can always trim them to length later.
 Unless you have a preferred pinout, follow the provided diagram:
 
