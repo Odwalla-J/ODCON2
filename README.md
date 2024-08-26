@@ -84,6 +84,7 @@ I strongly suggest you join the following active Discord communities for further
 - Diode (https://s.click.aliexpress.com/e/_mMPhXt6)
 
 **IR Tracking LEDs**
+
 These should work for all IR gun systems, only one set of these are required per TV.
 - IR LED Setup (https://a.aliexpress.com/_mKVuVFi)
 
