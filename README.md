@@ -59,9 +59,11 @@ I strongly suggest you join the following active Discord communities for further
 **Springs**
 - Trigger + Return Assist [3x15x.2] (https://s.click.aliexpress.com/e/_DDOggYJ)
 
-**Connector**
+**DIY Cable**
 - GX16 Connector (https://s.click.aliexpress.com/e/_DkaVC7h)
 - 6 Conductor Cable [22AWG 6C 5Meter] (https://s.click.aliexpress.com/e/_mr87lHE)
+- USB Connector (https://s.click.aliexpress.com/e/_mqPPXtW)
+- Barrel Jack (https://s.click.aliexpress.com/e/_mPR2KtS)
 
 **Fasteners**
 - M2 Kit (https://s.click.aliexpress.com/e/_DB4gK07)
