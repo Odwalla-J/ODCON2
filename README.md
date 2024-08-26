@@ -1,18 +1,18 @@
 # ODCON2
 
-***The ODCON2 is presently in a BETA status***
-If you are interested in printing and testing the files to submit feedback to assist in my continued development, the prepared STLs are contained within the BETA.rar file hosted in the link above.
+***The ODCON2 is presently in BETA status***
+If you are interested in printing and testing the files to submit feedback to assist in my continued development you can download the prepared STLs contained within the BETA.rar file hosted in the repository.
 
 **PLEASE NOTE** 
 While these files will work to create a working lightgun, they are still being revised and edited to improve the printability, functionality and general aesthetics.
 
 The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally.
 
-If you require any assistance or you would like to provide more direct feedback to me, myself and our supportive community can be located on Discord in the ODCON channel of the DIY Lightgun server: [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
+If you require any assistance or you would like to provide more direct feedback, you can most easily reach myself and my supportive community on Discord in the ODCON channel of the DIY Lightgun server: [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
 
 ---
 
-The ODCON2 is the second release in my line of open 3D printable lightgun pistols with full-slide solenoid recoil. 
+The ODCON2 is the second release in my line of open hardware 3D printable lightgun pistols with full-slide solenoid recoil. 
 This new design aims to improve upon the original to produce a lightgun that is easier to print, wire, and assemble while being more ergonomically friendly, aesthetically cleaner, and mechanically reliable.
 
 (insert a promo photo here)
@@ -76,6 +76,7 @@ I strongly suggest you join the following active Discord communities for further
 **Electronics**
 - Micro USB breakout(https://s.click.aliexpress.com/e/_mL7v6bi)
 - D4184 board [AOD4184 - 40V 50A] (https://s.click.aliexpress.com/e/_mNJ5ZTq)
+- IR LEDs 
 
 **Rumble Circuit**
 - 2N2222 (https://s.click.aliexpress.com/e/_mMfKNbm)
