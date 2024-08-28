@@ -109,7 +109,7 @@ Before beginning a build it is advisable to have a few of the following tools to
 - Small Phillips Head (+) screwdriver
 
 Thin silicone wire is preferred for work inside of the gun, I prefer to use 24AWG wire harvested from old network cables as they come in conveniently color coated twisted pairs that make wiring components pretty easy.
-Thicker guage wire will need to be used for the solenoid power lines, I suggest using nothing smaller than 22AWG, to save an extra expense you can salvage some from a short piece of the 6-conductor wire you'll need for the DIY cable.
+Thicker guage wire will need to be used for the solenoid power lines, I suggest using nothing smaller than 22AWG. To save an extra expense you can salvage some from a short piece of the 6-conductor wire you'll need for the DIY cable.
 
 Heat shrink tube, electrical tape, hot glue, super glue and solder are all resources that will likely be required but are left up to the users discretion and personal preferrance. 
 
