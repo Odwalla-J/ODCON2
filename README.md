@@ -6,20 +6,21 @@ If you are interested in printing and testing the files to submit feedback to as
 **PLEASE NOTE** 
 While these files will work to create a working lightgun, they are still being revised and edited to improve the printability, functionality and general aesthetics.
 
-The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally.
+The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally. Check below in the "Printing" section of the guide for advice on how to orient your parts for printing.
 
-If you require any assistance or you would like to provide more direct feedback, you can most easily reach myself and my supportive community on Discord in the ODCON channel of the DIY Lightgun server: [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
+If you require any further assistance or you would like to provide more direct feedback, you can most easily reach myself and my supportive community on Discord in the ODCON channel of the DIY Lightgun server: [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
 
 ---
+## It's finally here!
 
 The ODCON2 is the second release in my line of open hardware 3D printable lightgun pistols with full-slide solenoid recoil. 
 This new design aims to improve upon the original to produce a lightgun that is easier to print, wire, and assemble while being more ergonomically friendly, aesthetically cleaner, and mechanically reliable.
 
 (insert a promo photo here)
 
-This design is completely platform agnostic and will work with any IR based lightgun system. 
+This design is completely platform agnostic and will work with any IR based lightgun system (Samco, OpenFIRE, Gun4IR, etc.)
 
-**Due to the proprietary nature of some platforms, I will not be sharing those circuits or schematics, because of this and for the sake of offering a comprehensive guide, the following instructions will make use of OpenFIRE's excellent and freely available electronics solution and software**
+**Due to the proprietary nature of some platforms, I will not be sharing those circuits or schematics, because of this (and for the sake of offering a comprehensive guide) the following instructions will make use of OpenFIRE's excellent and freely available electronics solution and software**
 
 The OpenFIRE firmware and software can be located here:
 [Team OpenFIRE GitHub](https://github.com/TeamOpenFIRE "https://github.com/TeamOpenFIRE")
@@ -28,7 +29,7 @@ I strongly suggest you join the following active Discord communities for further
 [DIY Lightgun](https://discord.com/invite/hVU49XuuPv "https://discord.com/invite/hvu49xuupv") 
 [OpenFIRE](https://discord.com/invite/ZnGaVaRcFg "https://discord.com/invite/zngavarcfg")
 
-**While following along with the guide below I strongly suggest users to test as they go along to prevent having to completely disassemble the gun at a later step.**
+**While following along with the guide below I strongly suggest users to test their gun as they go along to prevent having to completely disassemble the gun to troubleshoot at a later step.**
 
 ---
 
@@ -96,24 +97,30 @@ These should work for all IR gun systems, only one set of these are required per
 
 ---
 
-## Recommended Tools
+## Recommended Tools and Materials
 
 Before beginning a build it is advisable to have a few of the following tools to assist you.
 
 - A 3D Printer: not entirely necessary if you can have a friend print this for you, I've printed these models sucessfully on a 2018 Ender 3 and a Bambu Labs P1P.
 - A Soldering Iron: A reasonable variable temperature iron is recommended, the Pinecil V2 by Pine64 is an excellent budget model that will work using the same PSU required by the gun. 
-- Hex Drivers/Bits: A set of drivers for M2/3/4 screws will be needed, ball-end drivers are HIGHLY recommeded.
+- Hex Drivers/Bits: A set of drivers for M2/3/4 screws will be needed, **ball-end drivers are HIGHLY recommeded.**
 - Needle Nose Pliers
 - Adjustable Wrench
 - Small Phillips Head (+) screwdriver
+
+Thin silicone wire is preferred for work inside of the gun, I prefer to use 24AWG wire harvested from old network cables as they come in conveniently color coated twisted pairs that make wiring components pretty easy.
+Thicker guage wire will need to be used for the solenoid power lines, I suggest using nothing smaller than 22AWG, to save an extra expense you can salvage some from a short piece of the 6-conductor wire you'll need for the DIY cable.
+
+Heat shrink tube, electrical tape, hot glue, super glue and solder are all resources that will likely be required but are left up to the users discretion and personal preferrance. 
 
 ---
 
 ## Printing
 
 The provided files have been exported in an orientation that has been thoroughly tested and should be ideal for most users to print on any FDM printer (although these are just suggestions).
+**The beta files may not be exported in their proper orientations due to my rapid itteration, follow the pictures below to verify part orientation or check on the Discord for support with this if required.**
 
-The print settings that have produced the best consistent results are as follows:
+The print settings that I suggest that have produced the best consistent results are as follows:
 - .12mm Layer Height
 - %20 Infill
 - Automated Tree Supports (touching buildplate)
@@ -126,15 +133,13 @@ The print settings that have produced the best consistent results are as follows
 
 ## Preparation
 
-**Make sure all of your parts have been cleaned of their supports and any protrusions on rough surfaces where supports and brims have contacted have been cleaned to allow for appropriate clearances**
+**Make sure all of your parts have been cleaned of their supports and any protrusions or rough surfaces where supports and brims have contacted have been cleaned to allow for appropriate clearances. Now is also a good opportunity to dry thread all holes using their appropriate sized hardware to ensure ease of installation later, undersized holes can be slightly widened using your hex drivers or hobby knife.**
 
 Starting with the Heel Plate, insert the nut from the GX16 connector into the recess on the interior of the part and then thread the connector in from the bottom until it's secure using an adjustable wrench.
-Now is the ideal time to solder you wires to the GX16 connector, make sure to leave plenty of slack on your cables as you can always trim them to length later.
+Now is the ideal time to solder your wires to the GX16 connector, make sure to leave plenty of slack on your cables as you can always trim them to length later (roughly 10" should be sufficient).
 Unless you have a preferred pinout, follow the provided diagram:
 
 (Insert photo of GX16 wiring diagram)
-
-The screw holes on the print have been sized to ensure a snug fit to eliminate any slop, to improve the ease of the build, now is a good opportunity to dry thread all holes using their appropriate sized hardware.
 
 Brass inserts should be prepared and inserted before continuing.
 Two should be installed on the lower frame assembly: One beneath the trigger switch recess and one on the tongue nearest to the heelplate:
