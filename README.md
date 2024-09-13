@@ -4,7 +4,7 @@
 If you are interested in printing and testing the files to submit feedback to assist in my continued development you can download the prepared STLs contained within the BETA.rar file hosted in the repository.
 
 **PLEASE NOTE** 
-While these files will work to create a working lightgun, they are still being revised and edited to improve the printability, functionality and general aesthetics.
+While these files will work to create a working lightgun, they are still being revised and edited to improve the printability, functionality and general aesthetics. THESE ARE NOT THE FINAL FILES. 
 
 The files are direct exports from Fusion 360 and as such may import into your slicer in odd orientations. These will need to be adjusted in many cases to print optimally. Check below in the "Printing" section of the guide for advice on how to orient your parts for printing.
 
